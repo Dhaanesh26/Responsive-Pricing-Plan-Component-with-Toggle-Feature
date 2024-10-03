@@ -43,7 +43,7 @@ I do not have access to the Figma sketch so the design is not pixel perfect.
 
 ## What I learned
 
-Another quick project to practice some JavaScript and CSS. Nothing new that I learned however decreased the timing to do the projects in general. Used to take much longer.
+A Quick but really creative and skill trusted Front End Design Project
 
 
 ## Useful resources
@@ -51,6 +51,3 @@ Another quick project to practice some JavaScript and CSS. Nothing new that I le
 1. [Figma](https://www.figma.com/) - Paste your design image to check the size of containers, width, etc.
 2. [Perfect Pixel](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi) - Awesome Chrome extension that helps you to match the pixels of the provided design.
 
-## Acknowledgments
-
-A big thank you to anyone providing feedback on my [solution](https://www.frontendmentor.io/solutions/pricing-component-with-toggle-IUaYc_2FA). It definitely helps to find new ways to code and find easier solutions! 
